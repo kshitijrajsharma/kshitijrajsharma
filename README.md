@@ -1,4 +1,4 @@
-### Namaste 🙏 and Welcome ! 
+### Namaste 🙏 and Welcome 👋
 
 <!--
 **kshitijrajsharma/kshitijrajsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
