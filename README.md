@@ -1,4 +1,4 @@
-He is Sherlock , Hunts Clues in the Map & Cracks Cases with the code ! 
+He is Sherlock , Hunts clues in the map & cracks cases with the code ! 
 
 <!--
 **kshitijrajsharma/kshitijrajsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
