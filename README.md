@@ -1,5 +1,5 @@
-He is Sherlock , People say he hunts clues in the map & cracks cases with the code ! 
-
+People say he is Sherlock , who hunts clues in the map & cracks cases with the code ! 
+Find me at skshitizraj@gmail.com
 <!--
 **kshitijrajsharma/kshitijrajsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
