@@ -1,6 +1,6 @@
-People say he is Sherlock , who hunts clues in the map & cracks cases with the code ! 
+I hunt clues in the map & try to crack cases with the code ! 
 
-Find him at hug-clicker-lucid@duck.com
+You can find me at hug-clicker-lucid@duck.com
 <!--
 **kshitijrajsharma/kshitijrajsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
