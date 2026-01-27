@@ -1,6 +1,9 @@
 I hunt clues in the map & try to crack cases with the code ! 
 
 You can find me at hug-clicker-lucid@duck.com
+
+if you like what I do and wanna support , Buy me a coffee ? https://github.com/sponsors/kshitijrajsharma 
+
 <!--
 **kshitijrajsharma/kshitijrajsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
