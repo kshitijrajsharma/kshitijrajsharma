@@ -2,7 +2,7 @@ I hunt clues in the map & try to crack cases with the code !
 
 You can find me at hug-clicker-lucid@duck.com
 
-if you like what I do and wanna support , Buy me a coffee ? 
+if you like what I do and wanna support my open source journey, will you buy me a coffee ? 
 
 [![Buy me a coffee](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4.svg?style=flat-square)](https://github.com/sponsors/kshitijrajsharma)
 
