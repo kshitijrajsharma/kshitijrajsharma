@@ -1,4 +1,4 @@
-I hunt clues in the map & try to crack cases with the code ! 
+I code & I love working with maps ! 
 
 You can find me at hug-clicker-lucid@duck.com
 
