@@ -1,4 +1,4 @@
-I code & I love working with spatial ! 
+I code & I love working with spatial data ! 
 
 You can find me at hug-clicker-lucid@duck.com
 
