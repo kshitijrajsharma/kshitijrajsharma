@@ -1,4 +1,4 @@
-I develop softwares & I love doing spatial ! 
+I develop geospatial softwares that benefits human kind ! 
 
 You can find me at hug-clicker-lucid@duck.com
 
